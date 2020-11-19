@@ -24,6 +24,10 @@ In this section of the notebook, a machine learning approach is used to building
 
 All the details of the steps are explanied in the notebok. 
 
+## Data
+
+The data from IBM Watson Studio is in data folder
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
