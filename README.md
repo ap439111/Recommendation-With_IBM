@@ -23,3 +23,11 @@ In order to build better recommendations for the users of IBM's platform, we loo
 In this section of the notebook, a machine learning approach is used to building recommendations . Using the user-item interactions, a matrix decomposition is built. Using the decomposition, an idea of how well the predictions can be made is explored in this section.
 
 All the details of the steps are explanied in the notebok. 
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## Acknowledgement
+* We want to thank [Udacity](https://www.udacity.com/) for this project and IBM Watson Studio for the data sets.
+
